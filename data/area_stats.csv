@@ -1,0 +1,145 @@
+city,season,year,class_id,class_name,area_km2,share_pct
+Greater Noida,Pre-Monsoon,2018,0,Built-up,884.57,63.82
+Greater Noida,Pre-Monsoon,2018,1,Water,48.76,3.52
+Greater Noida,Pre-Monsoon,2018,2,Vegetation,230.58,16.63
+Greater Noida,Pre-Monsoon,2018,3,Barren,222.22,16.03
+Greater Noida,Pre-Monsoon,2019,0,Built-up,884.57,63.82
+Greater Noida,Pre-Monsoon,2019,1,Water,73.07,5.27
+Greater Noida,Pre-Monsoon,2019,2,Vegetation,280.87,20.26
+Greater Noida,Pre-Monsoon,2019,3,Barren,147.61,10.65
+Greater Noida,Pre-Monsoon,2020,0,Built-up,884.57,63.82
+Greater Noida,Pre-Monsoon,2020,1,Water,73.07,5.27
+Greater Noida,Pre-Monsoon,2020,2,Vegetation,246.3,17.77
+Greater Noida,Pre-Monsoon,2020,3,Barren,182.18,13.14
+Greater Noida,Pre-Monsoon,2021,0,Built-up,884.57,63.82
+Greater Noida,Pre-Monsoon,2021,1,Water,56.5,4.08
+Greater Noida,Pre-Monsoon,2021,2,Vegetation,246.3,17.77
+Greater Noida,Pre-Monsoon,2021,3,Barren,198.75,14.34
+Greater Noida,Pre-Monsoon,2022,0,Built-up,884.57,63.82
+Greater Noida,Pre-Monsoon,2022,1,Water,56.5,4.08
+Greater Noida,Pre-Monsoon,2022,2,Vegetation,286.09,20.64
+Greater Noida,Pre-Monsoon,2022,3,Barren,158.97,11.47
+Greater Noida,Pre-Monsoon,2023,0,Built-up,884.57,63.82
+Greater Noida,Pre-Monsoon,2023,1,Water,75.08,5.42
+Greater Noida,Pre-Monsoon,2023,2,Vegetation,286.09,20.64
+Greater Noida,Pre-Monsoon,2023,3,Barren,140.39,10.13
+Greater Noida,Pre-Monsoon,2024,0,Built-up,884.57,63.82
+Greater Noida,Pre-Monsoon,2024,1,Water,75.08,5.42
+Greater Noida,Pre-Monsoon,2024,2,Vegetation,284.86,20.55
+Greater Noida,Pre-Monsoon,2024,3,Barren,141.62,10.22
+Greater Noida,Pre-Monsoon,2025,0,Built-up,884.57,63.82
+Greater Noida,Pre-Monsoon,2025,1,Water,72.26,5.21
+Greater Noida,Pre-Monsoon,2025,2,Vegetation,323.75,23.36
+Greater Noida,Pre-Monsoon,2025,3,Barren,105.56,7.62
+Greater Noida,Pre-Monsoon,2026,0,Built-up,884.57,63.82
+Greater Noida,Pre-Monsoon,2026,1,Water,72.26,5.21
+Greater Noida,Pre-Monsoon,2026,2,Vegetation,341.67,24.65
+Greater Noida,Pre-Monsoon,2026,3,Barren,87.63,6.32
+Greater Noida,Post-Monsoon,2018,0,Built-up,625.06,45.09
+Greater Noida,Post-Monsoon,2018,1,Water,25.81,1.86
+Greater Noida,Post-Monsoon,2018,2,Vegetation,356.17,25.7
+Greater Noida,Post-Monsoon,2018,3,Barren,379.09,27.35
+Greater Noida,Post-Monsoon,2019,0,Built-up,625.06,45.09
+Greater Noida,Post-Monsoon,2019,1,Water,22.37,1.61
+Greater Noida,Post-Monsoon,2019,2,Vegetation,329.01,23.74
+Greater Noida,Post-Monsoon,2019,3,Barren,409.69,29.56
+Greater Noida,Post-Monsoon,2020,0,Built-up,625.06,45.09
+Greater Noida,Post-Monsoon,2020,1,Water,22.37,1.61
+Greater Noida,Post-Monsoon,2020,2,Vegetation,510.53,36.83
+Greater Noida,Post-Monsoon,2020,3,Barren,228.16,16.46
+Greater Noida,Post-Monsoon,2021,0,Built-up,625.06,45.09
+Greater Noida,Post-Monsoon,2021,1,Water,28.87,2.08
+Greater Noida,Post-Monsoon,2021,2,Vegetation,323.32,23.33
+Greater Noida,Post-Monsoon,2021,3,Barren,408.88,29.5
+Greater Noida,Post-Monsoon,2022,0,Built-up,625.06,45.09
+Greater Noida,Post-Monsoon,2022,1,Water,28.87,2.08
+Greater Noida,Post-Monsoon,2022,2,Vegetation,408.05,29.44
+Greater Noida,Post-Monsoon,2022,3,Barren,324.14,23.38
+Greater Noida,Post-Monsoon,2023,0,Built-up,625.06,45.09
+Greater Noida,Post-Monsoon,2023,1,Water,30.34,2.19
+Greater Noida,Post-Monsoon,2023,2,Vegetation,408.05,29.44
+Greater Noida,Post-Monsoon,2023,3,Barren,322.69,23.28
+Greater Noida,Post-Monsoon,2024,0,Built-up,625.06,45.09
+Greater Noida,Post-Monsoon,2024,1,Water,30.34,2.19
+Greater Noida,Post-Monsoon,2024,2,Vegetation,395.04,28.5
+Greater Noida,Post-Monsoon,2024,3,Barren,335.69,24.22
+Greater Noida,Post-Monsoon,2025,0,Built-up,625.06,45.09
+Greater Noida,Post-Monsoon,2025,1,Water,30.34,2.19
+Greater Noida,Post-Monsoon,2025,2,Vegetation,509.41,36.75
+Greater Noida,Post-Monsoon,2025,3,Barren,221.32,15.97
+Greater Noida,Post-Monsoon,2026,0,Built-up,625.06,45.09
+Greater Noida,Post-Monsoon,2026,1,Water,24.13,1.74
+Greater Noida,Post-Monsoon,2026,2,Vegetation,664.38,47.93
+Greater Noida,Post-Monsoon,2026,3,Barren,72.55,5.23
+Bengaluru,Pre-Monsoon,2018,0,Built-up,956.7,43.91
+Bengaluru,Pre-Monsoon,2018,1,Water,39.81,1.83
+Bengaluru,Pre-Monsoon,2018,2,Vegetation,756.57,34.72
+Bengaluru,Pre-Monsoon,2018,3,Barren,425.82,19.54
+Bengaluru,Pre-Monsoon,2019,0,Built-up,1037.29,47.61
+Bengaluru,Pre-Monsoon,2019,1,Water,28.42,1.3
+Bengaluru,Pre-Monsoon,2019,2,Vegetation,670.88,30.79
+Bengaluru,Pre-Monsoon,2019,3,Barren,442.3,20.3
+Bengaluru,Pre-Monsoon,2020,0,Built-up,1037.29,47.61
+Bengaluru,Pre-Monsoon,2020,1,Water,28.42,1.3
+Bengaluru,Pre-Monsoon,2020,2,Vegetation,670.88,30.79
+Bengaluru,Pre-Monsoon,2020,3,Barren,442.3,20.3
+Bengaluru,Pre-Monsoon,2021,0,Built-up,1037.29,47.61
+Bengaluru,Pre-Monsoon,2021,1,Water,34.15,1.57
+Bengaluru,Pre-Monsoon,2021,2,Vegetation,789.09,36.21
+Bengaluru,Pre-Monsoon,2021,3,Barren,318.38,14.61
+Bengaluru,Pre-Monsoon,2022,0,Built-up,1037.29,47.61
+Bengaluru,Pre-Monsoon,2022,1,Water,38.26,1.76
+Bengaluru,Pre-Monsoon,2022,2,Vegetation,842.0,38.64
+Bengaluru,Pre-Monsoon,2022,3,Barren,261.35,11.99
+Bengaluru,Pre-Monsoon,2023,0,Built-up,1037.29,47.61
+Bengaluru,Pre-Monsoon,2023,1,Water,42.24,1.94
+Bengaluru,Pre-Monsoon,2023,2,Vegetation,842.91,38.69
+Bengaluru,Pre-Monsoon,2023,3,Barren,256.46,11.77
+Bengaluru,Pre-Monsoon,2024,0,Built-up,1037.29,47.61
+Bengaluru,Pre-Monsoon,2024,1,Water,44.01,2.02
+Bengaluru,Pre-Monsoon,2024,2,Vegetation,849.63,38.99
+Bengaluru,Pre-Monsoon,2024,3,Barren,247.97,11.38
+Bengaluru,Pre-Monsoon,2025,0,Built-up,1049.14,48.15
+Bengaluru,Pre-Monsoon,2025,1,Water,42.24,1.94
+Bengaluru,Pre-Monsoon,2025,2,Vegetation,735.06,33.74
+Bengaluru,Pre-Monsoon,2025,3,Barren,352.46,16.18
+Bengaluru,Pre-Monsoon,2026,0,Built-up,1049.14,48.15
+Bengaluru,Pre-Monsoon,2026,1,Water,41.92,1.92
+Bengaluru,Pre-Monsoon,2026,2,Vegetation,735.06,33.74
+Bengaluru,Pre-Monsoon,2026,3,Barren,352.79,16.19
+Bengaluru,Post-Monsoon,2018,0,Built-up,419.74,19.26
+Bengaluru,Post-Monsoon,2018,1,Water,26.12,1.2
+Bengaluru,Post-Monsoon,2018,2,Vegetation,1561.74,71.68
+Bengaluru,Post-Monsoon,2018,3,Barren,171.3,7.86
+Bengaluru,Post-Monsoon,2019,0,Built-up,432.03,20.75
+Bengaluru,Post-Monsoon,2019,1,Water,25.48,1.22
+Bengaluru,Post-Monsoon,2019,2,Vegetation,1534.07,73.69
+Bengaluru,Post-Monsoon,2019,3,Barren,90.17,4.33
+Bengaluru,Post-Monsoon,2020,0,Built-up,432.03,19.85
+Bengaluru,Post-Monsoon,2020,1,Water,22.75,1.05
+Bengaluru,Post-Monsoon,2020,2,Vegetation,1444.83,66.4
+Bengaluru,Post-Monsoon,2020,3,Barren,276.36,12.7
+Bengaluru,Post-Monsoon,2021,0,Built-up,441.16,22.36
+Bengaluru,Post-Monsoon,2021,1,Water,25.48,1.29
+Bengaluru,Post-Monsoon,2021,2,Vegetation,1506.38,76.35
+Bengaluru,Post-Monsoon,2021,3,Barren,0.0,0.0
+Bengaluru,Post-Monsoon,2022,0,Built-up,448.74,20.59
+Bengaluru,Post-Monsoon,2022,1,Water,36.96,1.7
+Bengaluru,Post-Monsoon,2022,2,Vegetation,1504.48,69.05
+Bengaluru,Post-Monsoon,2022,3,Barren,188.71,8.66
+Bengaluru,Post-Monsoon,2023,0,Built-up,466.69,21.42
+Bengaluru,Post-Monsoon,2023,1,Water,39.0,1.79
+Bengaluru,Post-Monsoon,2023,2,Vegetation,1504.48,69.05
+Bengaluru,Post-Monsoon,2023,3,Barren,168.73,7.74
+Bengaluru,Post-Monsoon,2024,0,Built-up,489.39,22.47
+Bengaluru,Post-Monsoon,2024,1,Water,38.1,1.75
+Bengaluru,Post-Monsoon,2024,2,Vegetation,1487.15,68.29
+Bengaluru,Post-Monsoon,2024,3,Barren,162.98,7.48
+Bengaluru,Post-Monsoon,2025,0,Built-up,496.76,22.8
+Bengaluru,Post-Monsoon,2025,1,Water,38.1,1.75
+Bengaluru,Post-Monsoon,2025,2,Vegetation,1434.81,65.85
+Bengaluru,Post-Monsoon,2025,3,Barren,209.22,9.6
+Bengaluru,Post-Monsoon,2026,0,Built-up,519.23,23.88
+Bengaluru,Post-Monsoon,2026,1,Water,29.5,1.36
+Bengaluru,Post-Monsoon,2026,2,Vegetation,1434.81,65.99
+Bengaluru,Post-Monsoon,2026,3,Barren,190.88,8.78

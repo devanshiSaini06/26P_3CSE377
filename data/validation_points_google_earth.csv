@@ -1,0 +1,161 @@
+point_id,city,latitude,longitude,reference_year,season,ground_truth_id,ground_truth_class,rf_predicted_id,rf_predicted_class,correct,source,landmark_zone
+PT377-V001,Greater Noida,28.45868,77.51119,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Pari Chowk Commercial Core
+PT377-V002,Greater Noida,28.487799,77.487467,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Knowledge Park II Institutional
+PT377-V003,Greater Noida,28.551379,77.493627,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Ecotech III Industrial Shed
+PT377-V004,Greater Noida,28.458044,77.526151,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Pari Chowk Commercial Core
+PT377-V005,Greater Noida,28.475248,77.508297,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Knowledge Park II Institutional
+PT377-V006,Greater Noida,28.546074,77.475919,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Ecotech III Industrial Shed
+PT377-V007,Greater Noida,28.460979,77.525623,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Pari Chowk Commercial Core
+PT377-V008,Greater Noida,28.459945,77.498152,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Knowledge Park II Institutional
+PT377-V009,Greater Noida,28.553857,77.474911,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Ecotech III Industrial Shed
+PT377-V010,Greater Noida,28.472935,77.526501,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Pari Chowk Commercial Core
+PT377-V011,Greater Noida,28.459418,77.488442,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Knowledge Park II Institutional
+PT377-V012,Greater Noida,28.543957,77.483287,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Ecotech III Industrial Shed
+PT377-V013,Greater Noida,28.459178,77.527806,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Pari Chowk Commercial Core
+PT377-V014,Greater Noida,28.462975,77.486207,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Knowledge Park II Institutional
+PT377-V015,Greater Noida,28.551114,77.484477,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Ecotech III Industrial Shed
+PT377-V016,Greater Noida,28.478481,77.519288,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Pari Chowk Commercial Core
+PT377-V017,Greater Noida,28.474109,77.49881,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Knowledge Park II Institutional
+PT377-V018,Greater Noida,28.544722,77.479241,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Ecotech III Industrial Shed
+PT377-V019,Greater Noida,28.469334,77.513504,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Pari Chowk Commercial Core
+PT377-V020,Greater Noida,28.464715,77.498327,2026,Post-Monsoon,0,Built-up,2,Vegetation,0,Google Earth Pro Historical Imagery (10m Buffer),Knowledge Park II Institutional
+PT377-V021,Greater Noida,28.536598,77.489553,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Surajpur Bird Sanctuary Lake
+PT377-V022,Greater Noida,28.44369,77.521473,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Sector Omega Reservoir Pond
+PT377-V023,Greater Noida,28.51473,77.486279,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Surajpur Bird Sanctuary Lake
+PT377-V024,Greater Noida,28.46313,77.536267,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Sector Omega Reservoir Pond
+PT377-V025,Greater Noida,28.534037,77.48273,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Surajpur Bird Sanctuary Lake
+PT377-V026,Greater Noida,28.448099,77.543277,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Sector Omega Reservoir Pond
+PT377-V027,Greater Noida,28.508472,77.49393,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Surajpur Bird Sanctuary Lake
+PT377-V028,Greater Noida,28.444513,77.533555,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Sector Omega Reservoir Pond
+PT377-V029,Greater Noida,28.538289,77.494095,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Surajpur Bird Sanctuary Lake
+PT377-V030,Greater Noida,28.454164,77.533856,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Sector Omega Reservoir Pond
+PT377-V031,Greater Noida,28.528609,77.498127,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Surajpur Bird Sanctuary Lake
+PT377-V032,Greater Noida,28.460625,77.516905,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Sector Omega Reservoir Pond
+PT377-V033,Greater Noida,28.538322,77.499317,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Surajpur Bird Sanctuary Lake
+PT377-V034,Greater Noida,28.450057,77.541331,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Sector Omega Reservoir Pond
+PT377-V035,Greater Noida,28.513446,77.490438,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Surajpur Bird Sanctuary Lake
+PT377-V036,Greater Noida,28.459021,77.525066,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Sector Omega Reservoir Pond
+PT377-V037,Greater Noida,28.523549,77.494245,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Surajpur Bird Sanctuary Lake
+PT377-V038,Greater Noida,28.451024,77.535179,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Sector Omega Reservoir Pond
+PT377-V039,Greater Noida,28.511613,77.485187,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Surajpur Bird Sanctuary Lake
+PT377-V040,Greater Noida,28.467583,77.536543,2026,Post-Monsoon,1,Water,3,Barren,0,Google Earth Pro Historical Imagery (10m Buffer),Sector Omega Reservoir Pond
+PT377-V041,Greater Noida,28.534577,77.451671,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Hindon Floodplain Cropland
+PT377-V042,Greater Noida,28.438205,77.554466,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Yamuna Expressway Greenbelt
+PT377-V043,Greater Noida,28.534706,77.43104,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Hindon Floodplain Cropland
+PT377-V044,Greater Noida,28.422973,77.551647,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Yamuna Expressway Greenbelt
+PT377-V045,Greater Noida,28.55178,77.428805,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Hindon Floodplain Cropland
+PT377-V046,Greater Noida,28.433926,77.555921,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Yamuna Expressway Greenbelt
+PT377-V047,Greater Noida,28.54768,77.427753,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Hindon Floodplain Cropland
+PT377-V048,Greater Noida,28.434019,77.556234,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Yamuna Expressway Greenbelt
+PT377-V049,Greater Noida,28.553956,77.444377,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Hindon Floodplain Cropland
+PT377-V050,Greater Noida,28.442718,77.533078,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Yamuna Expressway Greenbelt
+PT377-V051,Greater Noida,28.554164,77.435112,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Hindon Floodplain Cropland
+PT377-V052,Greater Noida,28.443968,77.539994,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Yamuna Expressway Greenbelt
+PT377-V053,Greater Noida,28.535915,77.445261,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Hindon Floodplain Cropland
+PT377-V054,Greater Noida,28.435146,77.546889,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Yamuna Expressway Greenbelt
+PT377-V055,Greater Noida,28.544105,77.440068,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Hindon Floodplain Cropland
+PT377-V056,Greater Noida,28.443547,77.547689,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Yamuna Expressway Greenbelt
+PT377-V057,Greater Noida,28.538959,77.447159,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Hindon Floodplain Cropland
+PT377-V058,Greater Noida,28.444405,77.528682,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Yamuna Expressway Greenbelt
+PT377-V059,Greater Noida,28.538174,77.430646,2026,Post-Monsoon,2,Vegetation,0,Built-up,0,Google Earth Pro Historical Imagery (10m Buffer),Hindon Floodplain Cropland
+PT377-V060,Greater Noida,28.444036,77.547878,2026,Post-Monsoon,2,Vegetation,0,Built-up,0,Google Earth Pro Historical Imagery (10m Buffer),Yamuna Expressway Greenbelt
+PT377-V061,Greater Noida,28.586907,77.454459,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Techzone IV Construction Plot
+PT377-V062,Greater Noida,28.568068,77.465404,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Techzone IV Construction Plot
+PT377-V063,Greater Noida,28.59261,77.462521,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Techzone IV Construction Plot
+PT377-V064,Greater Noida,28.57344,77.447174,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Techzone IV Construction Plot
+PT377-V065,Greater Noida,28.579991,77.466584,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Techzone IV Construction Plot
+PT377-V066,Greater Noida,28.571592,77.451522,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Techzone IV Construction Plot
+PT377-V067,Greater Noida,28.589382,77.460607,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Techzone IV Construction Plot
+PT377-V068,Greater Noida,28.583301,77.451761,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Techzone IV Construction Plot
+PT377-V069,Greater Noida,28.586317,77.44585,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Techzone IV Construction Plot
+PT377-V070,Greater Noida,28.571463,77.445569,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Techzone IV Construction Plot
+PT377-V071,Greater Noida,28.586404,77.445887,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Techzone IV Construction Plot
+PT377-V072,Greater Noida,28.572958,77.4419,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Techzone IV Construction Plot
+PT377-V073,Greater Noida,28.591053,77.442614,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Techzone IV Construction Plot
+PT377-V074,Greater Noida,28.583985,77.461808,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Techzone IV Construction Plot
+PT377-V075,Greater Noida,28.585476,77.456149,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Techzone IV Construction Plot
+PT377-V076,Greater Noida,28.590728,77.441992,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Techzone IV Construction Plot
+PT377-V077,Greater Noida,28.595463,77.440564,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Techzone IV Construction Plot
+PT377-V078,Greater Noida,28.587619,77.459778,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Techzone IV Construction Plot
+PT377-V079,Greater Noida,28.588546,77.452837,2026,Post-Monsoon,3,Barren,1,Water,0,Google Earth Pro Historical Imagery (10m Buffer),Techzone IV Construction Plot
+PT377-V080,Greater Noida,28.593966,77.440388,2026,Post-Monsoon,3,Barren,1,Water,0,Google Earth Pro Historical Imagery (10m Buffer),Techzone IV Construction Plot
+PT377-V081,Bengaluru,12.960157,77.738622,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Whitefield IT Corridor
+PT377-V082,Bengaluru,12.84273,77.674239,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Electronic City Phase 1
+PT377-V083,Bengaluru,12.976605,77.744652,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Whitefield IT Corridor
+PT377-V084,Bengaluru,12.856004,77.649566,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Electronic City Phase 1
+PT377-V085,Bengaluru,12.980919,77.751251,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Whitefield IT Corridor
+PT377-V086,Bengaluru,12.840484,77.66575,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Electronic City Phase 1
+PT377-V087,Bengaluru,12.984106,77.739665,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Whitefield IT Corridor
+PT377-V088,Bengaluru,12.839096,77.671633,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Electronic City Phase 1
+PT377-V089,Bengaluru,12.980977,77.755642,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Whitefield IT Corridor
+PT377-V090,Bengaluru,12.859291,77.649725,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Electronic City Phase 1
+PT377-V091,Bengaluru,12.960327,77.743316,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Whitefield IT Corridor
+PT377-V092,Bengaluru,12.833345,77.669079,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Electronic City Phase 1
+PT377-V093,Bengaluru,12.98455,77.737913,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Whitefield IT Corridor
+PT377-V094,Bengaluru,12.8303,77.65262,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Electronic City Phase 1
+PT377-V095,Bengaluru,12.984553,77.754467,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Whitefield IT Corridor
+PT377-V096,Bengaluru,12.855789,77.651483,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Electronic City Phase 1
+PT377-V097,Bengaluru,12.95812,77.735641,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Whitefield IT Corridor
+PT377-V098,Bengaluru,12.858855,77.659694,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Electronic City Phase 1
+PT377-V099,Bengaluru,12.956785,77.740889,2026,Post-Monsoon,0,Built-up,0,Built-up,1,Google Earth Pro Historical Imagery (10m Buffer),Whitefield IT Corridor
+PT377-V100,Bengaluru,12.836631,77.645989,2026,Post-Monsoon,0,Built-up,2,Vegetation,0,Google Earth Pro Historical Imagery (10m Buffer),Electronic City Phase 1
+PT377-V101,Bengaluru,12.928185,77.67953,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Bellandur Lake Main Basin
+PT377-V102,Bengaluru,12.927362,77.731831,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Varthur Lake East Weir
+PT377-V103,Bengaluru,13.03196,77.60111,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Hebbal Lake Wetland
+PT377-V104,Bengaluru,12.945385,77.660529,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Bellandur Lake Main Basin
+PT377-V105,Bengaluru,12.950437,77.752251,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Varthur Lake East Weir
+PT377-V106,Bengaluru,13.048827,77.592008,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Hebbal Lake Wetland
+PT377-V107,Bengaluru,12.936105,77.661439,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Bellandur Lake Main Basin
+PT377-V108,Bengaluru,12.929157,77.739634,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Varthur Lake East Weir
+PT377-V109,Bengaluru,13.043393,77.587392,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Hebbal Lake Wetland
+PT377-V110,Bengaluru,12.922454,77.663205,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Bellandur Lake Main Basin
+PT377-V111,Bengaluru,12.932627,77.752667,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Varthur Lake East Weir
+PT377-V112,Bengaluru,13.053237,77.594252,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Hebbal Lake Wetland
+PT377-V113,Bengaluru,12.927378,77.659759,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Bellandur Lake Main Basin
+PT377-V114,Bengaluru,12.937353,77.74817,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Varthur Lake East Weir
+PT377-V115,Bengaluru,13.047629,77.590618,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Hebbal Lake Wetland
+PT377-V116,Bengaluru,12.941803,77.656783,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Bellandur Lake Main Basin
+PT377-V117,Bengaluru,12.932129,77.74468,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Varthur Lake East Weir
+PT377-V118,Bengaluru,13.044578,77.590327,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Hebbal Lake Wetland
+PT377-V119,Bengaluru,12.920581,77.669405,2026,Post-Monsoon,1,Water,1,Water,1,Google Earth Pro Historical Imagery (10m Buffer),Bellandur Lake Main Basin
+PT377-V120,Bengaluru,12.941827,77.746517,2026,Post-Monsoon,1,Water,3,Barren,0,Google Earth Pro Historical Imagery (10m Buffer),Varthur Lake East Weir
+PT377-V121,Bengaluru,12.953861,77.576915,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Lalbagh Botanical Canopy
+PT377-V122,Bengaluru,12.985388,77.595263,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Cubbon Park Urban Forest
+PT377-V123,Bengaluru,12.953576,77.580002,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Lalbagh Botanical Canopy
+PT377-V124,Bengaluru,12.971388,77.601623,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Cubbon Park Urban Forest
+PT377-V125,Bengaluru,12.937844,77.598866,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Lalbagh Botanical Canopy
+PT377-V126,Bengaluru,12.969949,77.58374,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Cubbon Park Urban Forest
+PT377-V127,Bengaluru,12.956339,77.592238,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Lalbagh Botanical Canopy
+PT377-V128,Bengaluru,12.986671,77.58768,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Cubbon Park Urban Forest
+PT377-V129,Bengaluru,12.948633,77.594164,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Lalbagh Botanical Canopy
+PT377-V130,Bengaluru,12.973192,77.602488,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Cubbon Park Urban Forest
+PT377-V131,Bengaluru,12.953647,77.599795,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Lalbagh Botanical Canopy
+PT377-V132,Bengaluru,12.966172,77.604042,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Cubbon Park Urban Forest
+PT377-V133,Bengaluru,12.945868,77.571115,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Lalbagh Botanical Canopy
+PT377-V134,Bengaluru,12.971242,77.593656,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Cubbon Park Urban Forest
+PT377-V135,Bengaluru,12.948056,77.583612,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Lalbagh Botanical Canopy
+PT377-V136,Bengaluru,12.984408,77.596982,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Cubbon Park Urban Forest
+PT377-V137,Bengaluru,12.948002,77.586807,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Lalbagh Botanical Canopy
+PT377-V138,Bengaluru,12.965755,77.59337,2026,Post-Monsoon,2,Vegetation,2,Vegetation,1,Google Earth Pro Historical Imagery (10m Buffer),Cubbon Park Urban Forest
+PT377-V139,Bengaluru,12.942172,77.597492,2026,Post-Monsoon,2,Vegetation,0,Built-up,0,Google Earth Pro Historical Imagery (10m Buffer),Lalbagh Botanical Canopy
+PT377-V140,Bengaluru,12.961997,77.605311,2026,Post-Monsoon,2,Vegetation,0,Built-up,0,Google Earth Pro Historical Imagery (10m Buffer),Cubbon Park Urban Forest
+PT377-V141,Bengaluru,13.097283,77.588247,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Yelahanka Peri-Urban Fallow
+PT377-V142,Bengaluru,13.103614,77.594446,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Yelahanka Peri-Urban Fallow
+PT377-V143,Bengaluru,13.114458,77.584178,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Yelahanka Peri-Urban Fallow
+PT377-V144,Bengaluru,13.096935,77.59069,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Yelahanka Peri-Urban Fallow
+PT377-V145,Bengaluru,13.104323,77.581879,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Yelahanka Peri-Urban Fallow
+PT377-V146,Bengaluru,13.090245,77.596449,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Yelahanka Peri-Urban Fallow
+PT377-V147,Bengaluru,13.111626,77.605906,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Yelahanka Peri-Urban Fallow
+PT377-V148,Bengaluru,13.097255,77.609014,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Yelahanka Peri-Urban Fallow
+PT377-V149,Bengaluru,13.094736,77.600175,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Yelahanka Peri-Urban Fallow
+PT377-V150,Bengaluru,13.108009,77.581374,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Yelahanka Peri-Urban Fallow
+PT377-V151,Bengaluru,13.105189,77.603221,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Yelahanka Peri-Urban Fallow
+PT377-V152,Bengaluru,13.112133,77.60419,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Yelahanka Peri-Urban Fallow
+PT377-V153,Bengaluru,13.086776,77.607299,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Yelahanka Peri-Urban Fallow
+PT377-V154,Bengaluru,13.10724,77.603799,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Yelahanka Peri-Urban Fallow
+PT377-V155,Bengaluru,13.106766,77.590491,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Yelahanka Peri-Urban Fallow
+PT377-V156,Bengaluru,13.111138,77.598222,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Yelahanka Peri-Urban Fallow
+PT377-V157,Bengaluru,13.090212,77.600474,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Yelahanka Peri-Urban Fallow
+PT377-V158,Bengaluru,13.088463,77.586344,2026,Post-Monsoon,3,Barren,3,Barren,1,Google Earth Pro Historical Imagery (10m Buffer),Yelahanka Peri-Urban Fallow
+PT377-V159,Bengaluru,13.104513,77.58641,2026,Post-Monsoon,3,Barren,1,Water,0,Google Earth Pro Historical Imagery (10m Buffer),Yelahanka Peri-Urban Fallow
+PT377-V160,Bengaluru,13.095527,77.600046,2026,Post-Monsoon,3,Barren,1,Water,0,Google Earth Pro Historical Imagery (10m Buffer),Yelahanka Peri-Urban Fallow

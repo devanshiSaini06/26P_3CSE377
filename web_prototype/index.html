@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PT377 | Sentinel-2 Urban & Water Body Change Detection Prototype</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <div>
+      <span class="badge">IILM UNIVERSITY • MAJOR PROJECT PT377 • B.TECH CSE</span>
+      <h1 style="font-size: 22px; margin-top: 6px;">Sentinel-2 Multispectral Change Detection (2018–2026)</h1>
+      <p style="font-size: 13px; color: var(--muted);">
+        Team: Shivani (2410031096), Devanshi Saini (2410031106), Saurav Raj (2410031136), Mohit Sharma (2410031144) | Guide: Mr. Amit Agrawal
+      </p>
+    </div>
+    <div class="controls">
+      <select id="citySelect">
+        <option value="Greater Noida">Greater Noida (UP - NCR)</option>
+        <option value="Bengaluru">Bengaluru (Karnataka)</option>
+      </select>
+      <select id="seasonSelect">
+        <option value="Post-Monsoon">Post-Monsoon (Oct–Dec)</option>
+        <option value="Pre-Monsoon">Pre-Monsoon (Mar–May)</option>
+      </select>
+      <select id="layerSelect">
+        <option value="LULC">Classified LULC Matrix</option>
+        <option value="MNDWI">MNDWI (Water Index)</option>
+        <option value="NDVI">NDVI (Vegetation Index)</option>
+        <option value="NDBI">NDBI (Built-up Index)</option>
+      </select>
+    </div>
+  </header>
+
+  <section class="kpi-grid" id="kpiGrid"></section>
+
+  <section class="grid-2">
+    <div class="card">
+      <h3>2D Satellite Pixel Matrix Comparison (2018 vs. 2026)</h3>
+      <p class="sub" id="hotspotSubtitle"></p>
+      <div class="matrix-canvas-wrap">
+        <div>
+          <div style="font-size:12px; margin-bottom:4px; color:var(--muted);">2018 Baseline (10m Sentinel-2 Matrix)</div>
+          <canvas id="canvas2018" width="220" height="220"></canvas>
+        </div>
+        <div>
+          <div style="font-size:12px; margin-bottom:4px; color:var(--muted);">2026 End-State (Patched v2 RF)</div>
+          <canvas id="canvas2026" width="220" height="220"></canvas>
+        </div>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>Post-Classification 4×4 LULC Change Matrix (2018 → 2026, km²)</h3>
+      <p class="sub">Computed via pixel cross-tabulation T(i,j) = M_2018(i,j)×10 + M_2026(i,j)</p>
+      <div id="matrixTableContainer"></div>
+    </div>
+  </section>
+
+  <section class="grid-2">
+    <div class="card">
+      <h3>Annual Class Trajectories (2018–2026, km²)</h3>
+      <div id="trendTableContainer"></div>
+    </div>
+    <div class="card">
+      <h3>Step-2 Automated Sanity Check Diagnostics</h3>
+      <div id="sanityContainer"></div>
+    </div>
+  </section>
+
+  <script src="app.js"></script>
+</body>
+</html>

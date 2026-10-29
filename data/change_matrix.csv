@@ -1,0 +1,33 @@
+city,period,from_class_id,from_class,to_class_id,to_class,transition_code,area_km2,area_pre_monsoon_km2,area_post_monsoon_km2,pct_of_2018_class
+Greater Noida,2018-2026,0,Built-up,0,Built-up,0,738.81,953.7,738.81,100.0
+Greater Noida,2018-2026,0,Built-up,1,Water,1,0.0,0.0,0.0,0.0
+Greater Noida,2018-2026,0,Built-up,2,Vegetation,2,0.0,0.0,0.0,0.0
+Greater Noida,2018-2026,0,Built-up,3,Barren,3,0.0,0.0,0.0,0.0
+Greater Noida,2018-2026,1,Water,0,Built-up,10,3.8,13.0,3.8,16.64
+Greater Noida,2018-2026,1,Water,1,Water,11,15.71,28.05,15.71,68.81
+Greater Noida,2018-2026,1,Water,2,Vegetation,12,3.17,9.9,3.17,13.89
+Greater Noida,2018-2026,1,Water,3,Barren,13,0.15,0.67,0.15,0.66
+Greater Noida,2018-2026,2,Vegetation,0,Built-up,20,108.33,57.35,108.33,22.42
+Greater Noida,2018-2026,2,Vegetation,1,Water,21,5.93,7.79,5.93,1.23
+Greater Noida,2018-2026,2,Vegetation,2,Vegetation,22,336.98,196.03,336.98,69.73
+Greater Noida,2018-2026,2,Vegetation,3,Barren,23,32.0,16.62,32.0,6.62
+Greater Noida,2018-2026,3,Barren,0,Built-up,30,50.66,39.22,50.66,35.87
+Greater Noida,2018-2026,3,Barren,1,Water,31,1.22,1.17,1.22,0.86
+Greater Noida,2018-2026,3,Barren,2,Vegetation,32,72.23,46.13,72.23,51.14
+Greater Noida,2018-2026,3,Barren,3,Barren,33,17.14,16.5,17.14,12.13
+Bengaluru,2018-2026,0,Built-up,0,Built-up,0,540.97,1308.45,540.97,100.0
+Bengaluru,2018-2026,0,Built-up,1,Water,1,0.0,0.0,0.0,0.0
+Bengaluru,2018-2026,0,Built-up,2,Vegetation,2,0.0,0.0,0.0,0.0
+Bengaluru,2018-2026,0,Built-up,3,Barren,3,0.0,0.0,0.0,0.0
+Bengaluru,2018-2026,1,Water,0,Built-up,10,1.42,4.98,1.42,4.77
+Bengaluru,2018-2026,1,Water,1,Water,11,20.3,20.84,20.3,68.17
+Bengaluru,2018-2026,1,Water,2,Vegetation,12,7.77,6.13,7.77,26.09
+Bengaluru,2018-2026,1,Water,3,Barren,13,0.29,0.2,0.29,0.97
+Bengaluru,2018-2026,2,Vegetation,0,Built-up,20,205.0,126.71,205.0,13.3
+Bengaluru,2018-2026,2,Vegetation,1,Water,21,15.31,7.9,15.31,0.99
+Bengaluru,2018-2026,2,Vegetation,2,Vegetation,22,1289.0,526.96,1289.0,83.63
+Bengaluru,2018-2026,2,Vegetation,3,Barren,23,31.98,33.85,31.98,2.07
+Bengaluru,2018-2026,3,Barren,0,Built-up,30,32.77,43.71,32.77,49.01
+Bengaluru,2018-2026,3,Barren,1,Water,31,0.81,0.56,0.81,1.21
+Bengaluru,2018-2026,3,Barren,2,Vegetation,32,22.54,77.43,22.54,33.71
+Bengaluru,2018-2026,3,Barren,3,Barren,33,10.75,21.18,10.75,16.08
